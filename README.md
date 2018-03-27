@@ -8,5 +8,11 @@
 
 * Images of the result
 
-![](http://github.com/yangyou95/FEM-Dynamic-Structures/raw/master/Stress_and_deplacement.jpg)
+![stress and deplacement](https://github.com/yangyou95/FEM-Dynamic-Structures/raw/master/Stress_and_deplacement.jpg)
+
+![energies](https://github.com/yangyou95/FEM-Dynamic-Structures/raw/master/Energies.jpg)
+
+![frequences](https://github.com/yangyou95/FEM-Dynamic-Structures/raw/master/frequences.jpg)
+
+![simulation](https://github.com/yangyou95/FEM-Dynamic-Structures/raw/master/simulation.jpg)
 
