@@ -8,5 +8,5 @@
 
 * Images of the result
 
-![](http://github.com/yangyou95/FEM-Dynamic-Structures/raw/master/stress_and_deplacement.jpg)
+![](http://github.com/yangyou95/FEM-Dynamic-Structures/raw/master/Stress_and_deplacement.jpg)
 
