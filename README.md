@@ -8,6 +8,5 @@
 
 * Images of the result
 
-![Stress and deplacement][figure1]
-[figure1]:https://github.com/yangyou95/FEM-Dynamic-Structures/Stress_and_deplacement.jpg
+[![](/stress_and_deplacement.jpg "我的知乎，欢迎关注")][zhihu]
 
